@@ -1,0 +1,1 @@
+guauyape = 'https://media.discordapp.net/attachments/935381418312360008/999483622740463676/yapeguau.jpg?width=751&height=635'
